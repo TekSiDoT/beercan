@@ -36,6 +36,9 @@ collections:
   opinions:
     output: true
     permalink: /opinions/:name/
+  dev:
+    output: true
+    permalink: /dev/:name/
 
 # Defaults
 defaults:
