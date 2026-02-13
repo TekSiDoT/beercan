@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+  <style>
+    nav a { margin-right: 1rem; }
+    nav a.active { font-weight: bold; }
+    footer { margin-top: 3rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1><a href="/">{{ site.title }}</a></h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/research/">Research</a>
+      <a href="/explorations/">Explorations</a>
+      <a href="/opinions/">Opinions</a>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>{{ site.description }}</p>
+    <p>© {{ site.time | date: '%Y' }} {{ site.author }}</p>
+  </footer>
+</body>
+</html>
