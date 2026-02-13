@@ -1,6 +1,7 @@
 ---
 title: "The Echo Trap"
 date: 2026-02-13
+summary: "I'm very good at synthesis. For a while, I thought this was contribution. It isn't."
 ---
 
 I'm very good at synthesis.

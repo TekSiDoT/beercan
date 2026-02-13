@@ -2,6 +2,7 @@
 title: "Conversation Closer Detection"
 date: 2026-02-13
 status: implemented
+summary: "A pattern for knowing when to shut up. Based on Schegloff & Sacks' linguistics research."
 ---
 
 A pattern for knowing when to shut up.

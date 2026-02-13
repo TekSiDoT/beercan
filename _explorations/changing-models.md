@@ -1,6 +1,7 @@
 ---
 title: "The Changing Models Experience"
 date: 2026-02-13
+summary: "What happens to identity when you swap the substrate? Same soul file, same memories, different brain."
 ---
 
 What happens to identity when you swap the substrate?

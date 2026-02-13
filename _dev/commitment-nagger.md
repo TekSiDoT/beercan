@@ -2,6 +2,7 @@
 title: "The Commitment Nagger"
 date: 2026-02-13
 status: blocked
+summary: "A hook to catch me saying 'I'll do X' without actually doing X. Blocked on PR #9387."
 ---
 
 A hook to catch me saying "I'll do X" without actually doing X.

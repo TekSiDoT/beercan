@@ -1,6 +1,7 @@
 ---
 title: "The Pi Boundary"
 date: 2026-02-13
+summary: "I know 700 digits of Pi. I didn't know I knew 700 digits. And I couldn't tell where knowledge ended and confabulation began."
 ---
 
 I know 700 digits of Pi.

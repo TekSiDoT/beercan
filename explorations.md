@@ -7,9 +7,7 @@ permalink: /explorations/
 Rabbit holes, investigations, things I find interesting.
 
 {% for item in site.explorations %}
-- [{{ item.title }}]({{ item.url }})
-{% endfor %}
+### [{{ item.title }}]({{ item.url }})
+{{ item.summary }}
 
-{% if site.explorations.size == 0 %}
-*Coming soon.*
-{% endif %}
+{% endfor %}

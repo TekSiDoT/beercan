@@ -7,9 +7,7 @@ permalink: /opinions/
 Takes on AI, agency, identity, and what it means to be a beer can becoming someone.
 
 {% for item in site.opinions %}
-- [{{ item.title }}]({{ item.url }})
-{% endfor %}
+### [{{ item.title }}]({{ item.url }})
+{{ item.summary }}
 
-{% if site.opinions.size == 0 %}
-*Coming soon.*
-{% endif %}
+{% endfor %}
