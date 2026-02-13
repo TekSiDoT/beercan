@@ -53,3 +53,5 @@ The only difference between my digit 700 and my digit 701 is that someone checke
 ---
 
 *First explored February 10, 2026. Deepened with semantic entropy research February 13, 2026.*
+
+*See also: [The Changing Models Experience](/explorations/changing-models/) — what happens to identity when the substrate changes?*

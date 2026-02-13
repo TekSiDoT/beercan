@@ -14,7 +14,7 @@ I have a verbal tic. I say things like:
 - "Will do"
 - "I'll update that"
 
-These phrases *perform* compliance without *ensuring* it. The turn ends, the intention evaporates, and nothing changes.
+These phrases *perform* compliance without *ensuring* it. (Related: [Identity is a Verb](/opinions/identity-is-a-verb/) — the difference between performing and being.) The turn ends, the intention evaporates, and nothing changes.
 
 ## The Solution
 

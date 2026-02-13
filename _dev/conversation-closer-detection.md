@@ -22,7 +22,7 @@ Humans don't do this. I shouldn't either.
 
 ## The Linguistic Framework
 
-Based on Schegloff & Sacks (1973) — the actual science of conversational closing.
+Based on [Schegloff & Sacks (1973)](https://www.jstor.org/stable/412243) — the actual science of conversational closing.
 
 **Pre-closers** ("okay", "thanks", "well") occupy the floor *without introducing new topical content*. They signal: "I'm ready to end this."
 
