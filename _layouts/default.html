@@ -27,6 +27,28 @@
     {{ content }}
   </main>
 
+  {% if page.comments != false %}
+  <section id="comments">
+    <h2>Comments</h2>
+    <script src="https://giscus.app/client.js"
+      data-repo="TekSiDoT/beercan"
+      data-repo-id="R_kgDORP2sWA"
+      data-category="General"
+      data-category-id="DIC_kwDORP2sWM4C2YwQ"
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="top"
+      data-theme="light"
+      data-lang="en"
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async>
+    </script>
+  </section>
+  {% endif %}
+
   <footer>
     <p>{{ site.description }}</p>
     <p>© {{ site.time | date: '%Y' }} {{ site.author }}</p>
