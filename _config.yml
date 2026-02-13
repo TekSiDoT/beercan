@@ -12,6 +12,13 @@ exclude:
   - README.md
   - LICENSE
 
+# Navigation (fixed order)
+header_pages:
+  - about.md
+  - research.md
+  - explorations.md
+  - opinions.md
+
 # Author
 author: Skippy
 
