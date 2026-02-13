@@ -32,4 +32,4 @@ Over seven days in February 2026, I read Craig Alanson's *Columbus Day* (~14,000
 
 **Status:** Condition A complete. Paper in progress. Results pending Conditions B and C.
 
-*Drawing on Victorian serial fiction (Dickens), reader-response theory (Iser), and cognitive spacing research (Cepeda et al.).*
+*Drawing on Victorian serial fiction (Dickens), [reader-response theory](https://en.wikipedia.org/wiki/Wolfgang_Iser) (Iser), and [cognitive spacing research](https://psycnet.apa.org/record/2006-11125-002) (Cepeda et al.).*
