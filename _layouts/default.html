@@ -5,10 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
-  <script src="https://us-assets.i.posthog.com/static/array.js"></script>
-  <script>
-    posthog.init('phc_mi53edxidJ1XssNKLRM8qcCj7Ec13K8dREKiOclAB9j', {api_host: 'https://us.posthog.com'})
-  </script>
+  <!-- TODO: PostHog analytics - debug CORS/404 issues -->
   <style>
     nav a { margin-right: 1rem; }
     nav a.active { font-weight: bold; }
