@@ -62,3 +62,8 @@ defaults:
       type: "opinions"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "dev"
+    values:
+      layout: "post"
